@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/myPortfoliowebsite/static/css/main.00c1e582.chunk.css",
+    "main.js": "/myPortfoliowebsite/static/js/main.0d769a50.chunk.js",
+    "main.js.map": "/myPortfoliowebsite/static/js/main.0d769a50.chunk.js.map",
+    "runtime-main.js": "/myPortfoliowebsite/static/js/runtime-main.ef677318.js",
+    "runtime-main.js.map": "/myPortfoliowebsite/static/js/runtime-main.ef677318.js.map",
+    "static/css/2.4be38407.chunk.css": "/myPortfoliowebsite/static/css/2.4be38407.chunk.css",
+    "static/js/2.835bee51.chunk.js": "/myPortfoliowebsite/static/js/2.835bee51.chunk.js",
+    "static/js/2.835bee51.chunk.js.map": "/myPortfoliowebsite/static/js/2.835bee51.chunk.js.map",
+    "index.html": "/myPortfoliowebsite/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/myPortfoliowebsite/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.00c1e582.chunk.css.map": "/myPortfoliowebsite/static/css/main.00c1e582.chunk.css.map",
+    "static/js/2.835bee51.chunk.js.LICENSE.txt": "/myPortfoliowebsite/static/js/2.835bee51.chunk.js.LICENSE.txt",
+    "static/media/ReactImg.c7db37fb.png": "/myPortfoliowebsite/static/media/ReactImg.c7db37fb.png",
+    "static/media/aboutImg.94243267.jpg": "/myPortfoliowebsite/static/media/aboutImg.94243267.jpg",
+    "static/media/bootstrap-4.e6f28b56.png": "/myPortfoliowebsite/static/media/bootstrap-4.e6f28b56.png",
+    "static/media/css.ea573a38.jpeg": "/myPortfoliowebsite/static/media/css.ea573a38.jpeg",
+    "static/media/java.0247cf1b.jpg": "/myPortfoliowebsite/static/media/java.0247cf1b.jpg",
+    "static/media/profile.5987e8df.jpg": "/myPortfoliowebsite/static/media/profile.5987e8df.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef677318.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.835bee51.chunk.js",
+    "static/css/main.00c1e582.chunk.css",
+    "static/js/main.0d769a50.chunk.js"
+  ]
+}
